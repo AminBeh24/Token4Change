@@ -17,5 +17,5 @@ echo 'Hello world!';
 $val1 = 5;
 $val2 = 10;
 $result = $val1 + $val2;
-
+echo $result;
 ?>
