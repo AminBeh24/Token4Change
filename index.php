@@ -13,7 +13,6 @@
 <?php
 
 echo 'Hello world!';
-<br>
 
 $val1 = 5;
 $val2 = 10;
