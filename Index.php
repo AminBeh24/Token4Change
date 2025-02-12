@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 
-<h1>AAAAAAAAAAAAAAAAAAAA</h1>
+<h1>AAAAAAAAAAAAAAAAAAA</h1>
 
 <?php
 
